@@ -1,4 +1,10 @@
 import scripts.random_things as rt
+from classes.inventory import *
+from classes.advancements import Advancements
+from objects.player import *
+from objects.weapon import *
+from other.settings import *
+from classes.image import *
 import pygame
 import time
 import os

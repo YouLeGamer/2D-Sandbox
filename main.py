@@ -12,7 +12,7 @@ import os
 # Init pygame
 pygame.init()
 
-game_version = "- Classic 23w14"
+game_version = "- Classic 23w24"
 
 screen_size = (800, 600)
 screen_color = (0, 0, 0)
